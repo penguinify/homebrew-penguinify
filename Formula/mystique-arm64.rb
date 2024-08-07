@@ -1,4 +1,4 @@
-class Mystique < Formula
+class MystiqueArm64 < Formula
   desc "listen better daemon on macos"
   homepage "https://penguinify.github.io/mystique/"
   url "https://github.com/penguinify/mystique/releases/download/v0.1.0-alpha/arm64.zip"
